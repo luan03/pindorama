@@ -1,6 +1,6 @@
 # pindorama
 
-A simple way to monitore and visualize your web performance data through the graphs.
+A simple way to monitore and visualize your web performance data through graphs.
 
 ## Install
 
